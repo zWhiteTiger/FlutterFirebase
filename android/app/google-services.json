@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "628236745197",
+    "project_id": "caeflutterapp",
+    "storage_bucket": "caeflutterapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:628236745197:android:b90b1933b0aad7c3b44fe4",
+        "android_client_info": {
+          "package_name": "com.example.flutter_database"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAp7eTXIHETjOYlZIrcWIimsFOqBlf6Tn4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:628236745197:android:ef7dcd8f519c5296b44fe4",
+        "android_client_info": {
+          "package_name": "com.example.flutter_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAp7eTXIHETjOYlZIrcWIimsFOqBlf6Tn4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
